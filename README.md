@@ -1,4 +1,6 @@
-### Hi there 👋
+### HullaBrian
+- Proficient in Python, C, and Java
+- Interested in network automation and cyber security
 
 <!--
 **HullaBrian/HullaBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
