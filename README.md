@@ -1,7 +1,11 @@
-### HullaBrian
+## Jonathan Beierle
 - Junior Computer Science student at UTSA
-- Proficient in Python, C, and Java
-- Interested in software development related to network automation and cyber security
+- Active Directory / Windows security nerd
+- Networking person
+- Interested in incident response
+
+## Blog
+Interested in some cool blog posts? I write blog posts on occasion at [beierle.win](https://beierle.win).
 
 <!--
 **HullaBrian/HullaBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
