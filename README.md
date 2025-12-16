@@ -1,6 +1,6 @@
 ## Jonathan Beierle
 - Former Threat Intelligence Reverse Engineer Intern at IBM X-Force
-- Senior Computer Science student at UTSA
+- Bachelors Degree in Computer Science from UTSA
 - Active Directory / Windows security nerd
 - Networking person
 
